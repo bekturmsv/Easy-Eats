@@ -71,4 +71,5 @@
 
 .food_item_counter img {
   width: 30px;
+  cursor: pointer;
 }
